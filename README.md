@@ -28,3 +28,7 @@
 
 | ![img](https://img.shields.io/github/languages/count/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/languages/top/eduardo-ono/Eletronica-Digital?color=yellow) | ![img](https://img.shields.io/github/commit-activity/w/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/commit-activity/m/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/commit-activity/y/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital) |
 | :-- | --: |
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
