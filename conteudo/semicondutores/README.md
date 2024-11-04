@@ -1,4 +1,4 @@
-<img alt="" width="100%" height="2px" align="center"><img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">&nbsp;Eletrônica Digital&nbsp;<img alt="" width="98%" height="2px" align="right">
+<img alt="" width="100%" size="2px" align="center" noshade><img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">&nbsp;Eletrônica Digital&nbsp;<img alt="" width="98%" size="1px" align="right">
 
 &nbsp;
 
