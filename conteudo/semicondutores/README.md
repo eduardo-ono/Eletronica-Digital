@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-| [img]( size="900px") | s |
+| Eletrônica Digital <img alt="" width="3840" height="1"> | <img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="18px"> |
 | --- | --: |
 
 <h1 align="center">Semicondutores</h1>
