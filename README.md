@@ -26,4 +26,4 @@
 
 ---
 
-<h6 align="center"><img src="https://img.shields.io/github/commit-activity/w/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/commit-activity/m/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/commit-activity/y/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital" alt=""></h6>
+<h6 align="center"><img src="https://img.shields.io/github/commit-activity/w/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/commit-activity/m/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/commit-activity/y/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital" alt=""><br><img src="https://img.shields.io/github/languages/count/eduardo-ono/Eletronica-Digital" alt=""> <img src="https://img.shields.io/github/languages/top/eduardo-ono/Eletronica-Digital?color=yellow" alt=""></h6>
