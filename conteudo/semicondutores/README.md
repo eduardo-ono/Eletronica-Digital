@@ -1,7 +1,7 @@
 <table>
   <tr>
     <th width="3840px">
-      Eletrônica Digital <img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" width="25px" align="right">
+      Eletrônica Digital <img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" width="100px" align="right">
     </th>
   </tr>
 </table>
