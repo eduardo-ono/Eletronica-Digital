@@ -6,6 +6,8 @@
 
 &nbsp;
 
+&nbsp;
+
 <h1 align="center">Semicondutores</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
 <h5 align="center">Atualizado em: 04/11/2024</h5>
