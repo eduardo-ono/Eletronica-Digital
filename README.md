@@ -26,5 +26,5 @@
 
 ---
 
-| ![img](https://img.shields.io/github/languages/count/eduardo-ono/Eletronica-Digital)<br>![img](https://img.shields.io/github/languages/top/eduardo-ono/Eletronica-Digital?color=yellow)<br>&nbsp;<br>&nbsp; | ![img](https://img.shields.io/github/commit-activity/w/eduardo-ono/Eletronica-Digital)<br>![img](https://img.shields.io/github/commit-activity/m/eduardo-ono/Eletronica-Digital)<br>![img](https://img.shields.io/github/commit-activity/y/eduardo-ono/Eletronica-Digital)<br>![img](https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital) |
+| ![img](https://img.shields.io/github/languages/count/eduardo-ono/Eletronica-Digital)<br>![img](https://img.shields.io/github/languages/top/eduardo-ono/Eletronica-Digital?color=yellow) | ![img](https://img.shields.io/github/commit-activity/w/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/commit-activity/m/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/commit-activity/y/eduardo-ono/Eletronica-Digital) ![img](https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital) |
 | :-- | --: |
