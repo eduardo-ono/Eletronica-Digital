@@ -3,7 +3,7 @@
     <th>
       <img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">
       <sup>&nbsp;Eletrônica Digital</sup>
-      <img src="../../hr.png" alt="" width="100%" height="1px" align="left">
+      <img alt="" width="3840px" height="1px" align="left">
     </th>
   </tr>
 </table>
