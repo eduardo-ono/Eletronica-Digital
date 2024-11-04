@@ -6,6 +6,9 @@
   </tr>
 </table>
 
+| <img alt="" width="3840" height="1"><br><p align="left">Eletrônica Digital<img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="20px" align="right"></p> |
+| --- |
+
 &nbsp;
 
 <h1 align="center">Semicondutores</h1>
