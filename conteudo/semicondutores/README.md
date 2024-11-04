@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-<img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">Eletrônica Digital<img alt="" width="100%" height="2px" align="left">
+<img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">Eletrônica Digital<img alt="" width="100%" height="2px" align="right">
 
 &nbsp;
 
