@@ -4,7 +4,7 @@
       Eletrônica Digital
     </th>
     <th width="32px">
-      <img src="https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital" alt="img">
+      <img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img">
     </th>
   </tr>
 </table>
@@ -30,3 +30,5 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardo-ono/Eletronica-Digital)
 ![GitHub all releases](https://img.shields.io/github/downloads/eduardo-ono/Eletronica-Digital/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/eduardo-ono/Eletronica-Digital)
+![GitHub contributors](https://img.shields.io/github/contributors/eduardo-ono/Eletronica-Digital)
