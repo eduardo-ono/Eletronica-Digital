@@ -1,5 +1,9 @@
+<p align="center">
+
 | $\text{---\{ Eletrônica Digital \}---}$ |
 | :-: |
+
+</p>
 
 <h1 align="center">Semicondutores</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
