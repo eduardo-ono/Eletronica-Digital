@@ -1,6 +1,6 @@
 <h1 align="center">Eletrônica Digital</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
-<h4 align="center"><sup>Atualizado em:</sup> <img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img"></h4>
+<h6 align="center"><sup><img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img: last-commit"></sup></h6>
 
 &nbsp;
 
