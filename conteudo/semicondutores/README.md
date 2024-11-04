@@ -7,7 +7,7 @@
 </table>
 
 <img alt="" width="100%" height="2px">
-Eletrônica Digital<img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">
+<img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="100%" align="right">Eletrônica Digital
 <img alt="" width="100%" height="2px">
 
 &nbsp;
