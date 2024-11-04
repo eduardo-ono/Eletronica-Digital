@@ -1,10 +1,13 @@
 <table>
   <tr>
     <th width="3840px">
-      <p align="left"><sup>Eletrônica Digital</sup><img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" width="100px" align="right"></p>
+      <p align="left"><sup>Eletrônica Digital</sup><img src="https://img.shields.io/github/last-commit/eduardo-ono/Eletronica-Digital" alt="img" height="18px" align="right"></p>
     </th>
   </tr>
 </table>
+
+| [img]( size="900px") | s |
+| --- | --: |
 
 <h1 align="center">Semicondutores</h1>
 <h3 align="center">Prof. Eduardo Ono</h3>
