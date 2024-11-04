@@ -12,7 +12,7 @@
 
 | Aula | Data | Descrição |
 | :-: | --- | --- |
-| 01  |     | <li>Semicondutoes</li> |
+| 01  |     | <ul><li>Semicondutoes</li></ul> |
 
 &nbsp;
 
